@@ -1,0 +1,43 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1000"
+  height="1000"
+  viewBox="0 0 264.583 264.583"
+>
+  <path fill="#0072bc" d="M0 185.208h264.583v79.375H0z" />
+  <text
+    style="
+      line-height: 1.25;
+      -inkscape-font-specification: 'Consolas, Bold';
+      font-variant-ligatures: normal;
+      font-variant-caps: normal;
+      font-variant-numeric: normal;
+      font-feature-settings: normal;
+      text-align: start;
+    "
+    x="35.14"
+    y="162.9"
+    font-weight="700"
+    font-size="70.556"
+    font-family="Consolas"
+    letter-spacing="0"
+    word-spacing="0"
+    stroke-width="1.36"
+    transform="translate(0 -32.417)"
+  >
+    <tspan
+      x="35.14"
+      y="162.9"
+      style="
+        -inkscape-font-specification: 'Consolas, Bold';
+        font-variant-ligatures: normal;
+        font-variant-caps: normal;
+        font-variant-numeric: normal;
+        font-feature-settings: normal;
+        text-align: start;
+      "
+    >
+      bizen
+    </tspan>
+  </text>
+</svg>
