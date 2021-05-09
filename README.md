@@ -1,3 +1,3 @@
 ```ts
-console.log("hello, world");
+console.log("こんにちは!");
 ```
